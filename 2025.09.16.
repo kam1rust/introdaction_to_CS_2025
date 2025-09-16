@@ -1,0 +1,58 @@
+CPU (Central Processing Unit)
+
+Role: The “brain” of the computer that performs the main arithmetic, logical, and input/output operations.
+
+
+Key Parts of the CPU
+
+1. Control Unit (CU) – coordinates the work of all components.
+
+
+2. Arithmetic Logic Unit (ALU) – performs calculations and logical operations.
+
+
+3. Registers – very fast, small memory used for temporary storage of data and instructions.
+
+
+RAM (Random Access Memory)
+
+Purpose: Short-term storage of data for quick access by the processor.
+
+Characteristics:
+
+Volatile — data is lost when power is turned off.
+
+The larger the capacity, the higher the system’s performance.
+
+
+
+Motherboard
+
+Connects and provides communication between all computer components.
+
+Contains:
+
+CPU
+
+Chipset – manages data exchange between the processor, memory, and devices.
+
+BIOS/UEFI – basic input/output system that starts the computer and loads the operating system.
+
+
+Data Storage
+
+Purpose: Used to store and preserve software and user data.
+
+
+Types of Storage Devices
+
+1. Hard Disk Drive (HDD) – magnetic storage with large capacity and lower cost.
+
+
+2. Solid-State Drive (SSD) – faster, no moving parts, more durable.
+
+
+3. Optical Drives (CD/DVD) – read and write data on discs.
+
+
+4. External Drives / USB Flash Drives – portable storage for easy data transfer.
